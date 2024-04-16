@@ -1,4 +1,4 @@
-A Flight Service System is a comprehensive software application designed to facilitate the management of flight-related operations, enabling users to perform Create, Read, Update, and Delete (CRUD) operations as well as book tickets seamlessly. Here's a detailed description of the key features:
+A Flight Service System is a API designed to facilitate the management of flight-related operations, enabling users to perform Create, Read, Update, and Delete (CRUD) operations as well as book tickets seamlessly. Here's a detailed description of the key features:
 
 1. **Flight Database Management:**
    - CRUD functionality for managing flight details such as schedules, destinations, and available seats.
